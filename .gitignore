@@ -1,0 +1,14 @@
+# WordPress
+.DS_Store
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+
+# Temporary files
+*.tmp
